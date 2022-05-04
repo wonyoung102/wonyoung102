@@ -1,0 +1,3 @@
+- 👋 Hi, I’m a bug creator
+- 👀 I’m interested in fixing bugs
+- 🌱 I’m currently learning & learning Python
